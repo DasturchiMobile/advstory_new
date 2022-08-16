@@ -13,13 +13,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cache_manager: ^3.3.0
-  shimmer: ^2.0.0
-  video_player: ^2.4.5
+  flutter_cache_manager: ^3.4.1
+  shimmer: ^3.0.0
+  video_player: ^2.9.5
 
 dev_dependencies:
-  dartdoc: ^6.0.0
-  flutter_lints: ^2.0.1
+  dartdoc: ^8.3.3
+  flutter_lints: ^5.0.0
   flutter_test:
     sdk: flutter
 
