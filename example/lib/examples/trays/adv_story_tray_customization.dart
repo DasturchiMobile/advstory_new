@@ -28,13 +28,12 @@ class _AdvStoryTrayCustomizationState extends State<AdvStoryTrayCustomization> {
   bool _showUserNames = false;
 
   final _defaultBorderColors = [
-    const Color(0xaf405de6),
-    const Color(0xaf5851db),
-    const Color(0xaf833ab4),
-    const Color(0xafc13584),
-    const Color(0xafe1306c),
-    const Color(0xaffd1d1d),
-    const Color(0xaf405de6),
+    const Color(0xFF3ACFD1),
+    const Color(0xFF54BEDD),
+    const Color(0xFF6DADE8),
+    const Color(0xFF7FD4D7),
+    const Color(0xFF13B8BA),
+    const Color(0xFF219E9F),
   ];
   late List<Color> _selectedColors = _defaultBorderColors;
 
